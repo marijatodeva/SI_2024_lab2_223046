@@ -1,5 +1,6 @@
 # Втора лабораториска вежба по Софтверско инженерство
 # Марија Тодева, бр. на индекс 223046
+
 **Control Flow Graph**
 ![SI_Lab2 drawio](https://github.com/marijatodeva/SI_2024_lab2_223046/assets/166118610/627a612a-d530-4043-8f7f-eaedc023618f)
 
